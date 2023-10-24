@@ -1,11 +1,11 @@
 # small311qlab
 Ghost_image_neurowave
 
-Filename = name_of_dataset+dataset_size
+File name = name_of_dataset+dataset_size+frames_number
 
 names_of_dataset:
-cor1 - correlation function (angle - 0 deg.)
-cor2 - correlation function (angle - 45 deg.)
-cor3 - correlation function (angle - 90 deg.)
+cor1 - correlation function (angle of rotation of the half-wave plate relative to the axis - 0 degrees) 
+cor2 - correlation function (angle of rotation of the half-wave plate relative to the axis - 22.5 degrees) 
+cor3 - correlation function (angle of rotation of the half-wave plate relative to the axis - 45 degrees) 
 pitog - size of anisotropy
 tetitog - angle of anisotropy
